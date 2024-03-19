@@ -11,8 +11,8 @@ f"My dog's name is $pet_name"
 "sadfjshfjyuyxyzjkfuidkjklhasyysdfk.contains".contains("xyz")
 
 // What is the difference between a value and a variable
-a value cannot be reassigned (constance)
-and a variable can be reassigned to the same datatype (let)
+a value cannot be reassigned (constance) // immutable
+and a variable can be reassigned to the same datatype (let) // mutable
 
 // Given the tuple (1,2,3,(4,5,6)) retrieve the number 6
 var my_tup = (1,2,3,(4,5,6))
